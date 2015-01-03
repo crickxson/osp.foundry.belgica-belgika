@@ -12,7 +12,7 @@ construction
    shapes1.svg and shapes2.svg 
    - the svg vectors file with the first and several steps to produce two LGRU logos and most of the letters
    belgica.svg 
-   - the svg vectors file with all the base letters at the right size to be copy/pasted in a 1000x1000 font unit in FontForge
+   - the svg vectors file with all the base letters at the right size to be copy/pasted in a 1000×1000 font unit in FontForge
 
 source
    belgika-Stroke.sfd
@@ -98,12 +98,13 @@ Production
    belgika-40th.sfd
 
 
-Known issues
-------------
+Known issues and future developments
+------------------------------------
 
 - The spacing needs kerning pairs.
 - There is currently no Euro sign.
 - Another future version can propose fonts without that scaling operation, to be able to superpose different weights.
+- Of course, the switch between two or more shapes by glyph is a future must.
 
 
 Coverage
