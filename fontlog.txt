@@ -81,7 +81,7 @@ http://www.kioskgallery.be/media/kiosk/ENG_Exhibition-text_kopie.pdf
 
 - In 2014, its relative simplicity is made at work with Ludi Loiseau and by Pierre Marchand for a program to generate monograms for the made.in social media project. An extended version is quickly derived. Another pseudo-font format is made of json shapes dynamically intertwined on web canvas.
 
-- After the manual composition of Belgica shapes by graphic designer Delphine Platteuw for 'Personne et les autres' proposal by Vincent Meessen and Katerina Gregos for Venice Biennial 2015, the need for a font family to be used by Stefano Cemuschi at Mousse publisher with regular layout software become clear. Belgika, with its friezed contour Opentype fonts ghosts, is the first occurrence of it.
+- After the manual composition of Belgica shapes by graphic designer Delphine Platteuw for 'Personne et les autres' proposal by Vincent Meessen and Katerina Gregos for Venice Biennial 2015, the need for a font family to be used by Stefano Cernuschi at Mousse publisher with regular layout software become clear. Belgika, with its friezed contour Opentype fonts ghosts, is the first occurrence of it.
 
 
 Production
