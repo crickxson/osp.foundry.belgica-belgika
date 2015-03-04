@@ -1,8 +1,8 @@
 SplineFontDB: 3.0
 FontName: Belgika-Stroke
 FullName: Belgika Stroke
-FamilyName: Belgika Stroke
-Weight: Regular
+FamilyName: Belgika
+Weight: Stroke
 Copyright: Copyright (c) 2014-2015, Pierre Huyghebaert\n\nOSP: Version 1.0 (http://ospublish.constantvzw.org/foundry)\n\nBelgica and Belgika fonts are released under the OFL 1.1 -- http://scripts.sil.org/OFL\n\nFor information on what you're allowed to change or modify, \nconsult the OFL-1.1.txt and OFL-FAQ.txt files.  The OFL-FAQ also gives a very general rationale and various recommendations regarding why you would want to contribute to the project or make your own version of the font.
 UComments: "2014-12-26: Created with FontForge (http://fontforge.org)"
 Version: 001.000
@@ -19,16 +19,22 @@ Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 StrokedFont: 1
 XUID: [1021 878 1716694747 13563712]
+FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1419624870
-ModificationTime: 1420124205
+ModificationTime: 1425459643
+PfmFamily: 17
+TTFWeight: 100
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
 OS2TypoDOffset: 1
-OS2TypoLinegap: 0
+OS2TypoLinegap: 90
 OS2WinAscent: 0
 OS2WinAOffset: 1
 OS2WinDescent: 0
